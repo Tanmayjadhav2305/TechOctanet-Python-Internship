@@ -1,19 +1,17 @@
 📌 Tech Octanet Python Internship Tasks
 This repository contains the tasks completed as part of my Python Development Internship at Tech Octanet. Each task is structured in a separate folder with relevant files and documentation.
 
+📌Features:
+
+- PIN Verification: Ensures secure access to the ATM.
+- Balance Inquiry: Allows users to check their current balance.
+- Withdrawal: Users can withdraw money, with transaction limits.
+- Deposit: Users can deposit money into their account.
+
+
 📂 Folder Structure
 
-TechOctanet-Python-Internship/
-│── README.md  <-- Project overview and instructions
-│── .gitignore  <-- Files to ignore in Git
-│── Task-1/
-│   ├── task1.py
-│   ├── requirements.txt
-│── Task-2/
-│   ├── task2.py
-│── Task-3/
-│   ├── task3.py
-
+Task1/ │ ├── ATM_Machine_Simulation.py # Main Python script for ATM simulation │ ├── .gitignore # Git ignore file to exclude unnecessary files │ └── README.md # Project description and instructions
 
 📜 Tasks Overview
 Task No.	Description	Status
