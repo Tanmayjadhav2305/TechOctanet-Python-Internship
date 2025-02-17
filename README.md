@@ -8,6 +8,60 @@ This repository contains the tasks completed as part of my Python Development In
 - Withdrawal: Users can withdraw money, with transaction limits.
 - Deposit: Users can deposit money into their account.
 
+📌Sample Output: Here’s an example interaction with the ATM simulation:
+
+Enter your PIN: ****  #default pin as 1234
+
+ATM Menu:
+
+1.Check Balance
+2.Withdraw Cash
+3.Deposit Cash
+4.Change PIN
+5.Transaction History
+6.Exit 
+Select an option: 1 Your current balance is: $1000
+
+ATM Menu:
+
+1.Check Balance
+2.Withdraw Cash
+3.Deposit Cash
+4.Change PIN
+5.Transaction History
+6.Exit 
+Select an option: 2 Enter withdrawal amount: 100 Withdrawal successful! Your new balance is: $900.0
+
+ATM Menu:
+
+1.Check Balance
+2.Withdraw Cash
+3.Deposit Cash
+4.Change PIN
+5.Transaction History
+6.Exit 
+Select an option: 3 Enter deposit amount: 200 Deposit successful! Your new balance is: $1100.0
+
+ATM Menu:
+
+1.Check Balance
+2.Withdraw Cash
+3.Deposit Cash
+4.Change PIN
+5.Transaction History
+6.Exit 
+Select an option: 4 Enter current PIN: **** Enter new PIN: **** Confirm new PIN: **** PIN changed successfully!
+
+ATM Menu:
+
+1.Check Balance
+2.Withdraw Cash
+3.Deposit Cash
+4.Change PIN
+5.Transaction History
+6.Exit 
+Select an option: 6 Thank you for using our ATM. Goodbye!
+
 
 📂 Folder Structure
 
